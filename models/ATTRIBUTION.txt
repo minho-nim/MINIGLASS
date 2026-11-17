@@ -1,0 +1,13 @@
+AI 안경 잡기 — original student assets
+
+Human base mesh, rig and weights: MakeHuman Community / MPFB 2.0.18.
+MPFB commit: d0a32e57a7f915cb2f2b95410e2117648c7bbb7e
+Source: https://github.com/makehumancommunity/mpfb2/tree/v2.0.18
+Bundled graphical assets and output: CC0 1.0 Universal.
+See LICENSE-MPFB-ASSETS.txt. The GPLv3 MPFB add-on is used only as an authoring
+ tool and is not bundled with the game runtime.
+
+Original modifications: student proportions, outfits, hair, eyes, fitted seated
+poses, animation clips, detachable glasses and close-up prop, authored in Blender
+with scripts/build_students.py. No famous character likeness or third-party
+conversation API is used.
